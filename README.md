@@ -1,6 +1,6 @@
 # 🌦️ Weather App (Python)
 
- fetches real-time weather data for any city using the OpenWeatherMap API.
+ Fetches real-time weather data for any city using the OpenWeatherMap API.
 
 ## Features
 - Get temperature, humidity, and weather description
